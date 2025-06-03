@@ -14,9 +14,9 @@ Temperature data: `who_audit_synthetic_data.csv`
 
 **Target:** Find the 3 batches stored inappropriately:
 
-B10046 (2025-02-14 8:00:00)
-B10048 (2025-02-16 16:00:00)
-B10001 (2025-01-01 8:00:00)
+B10046 (2025-02-14 8:00:00)  
+B10048 (2025-02-16 16:00:00)  
+B10001 (2025-01-01 8:00:00)  
 
 **Your task**: Develop a prompting strategy that gets the LLM to correctly identify these batches. 
 
