@@ -23,3 +23,5 @@ B10001 (2025-01-01 8:00:00)
 See `data_exploration.ipynb` for an example. You will need to break the task down into steps instead of relying on a single prompt. 
 
 Using a larger LLM will make the task easier, and using a small one will make it more challenging.
+
+If you can get to the answer, consider the reliablity of the methods you used. Would they be appropriate for using in a real project? Are there risks, or other methods that could be more reliable?
