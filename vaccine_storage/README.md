@@ -38,6 +38,6 @@ I suggest you note down your answers for these questions, then chat with an LLM,
 
 4. Reflect on the approaches you have used to prompt the LLM:  
 
-a) What risks would there be in relying on an LLM if we were dealing with a real-life vaccine storage problem?  
-b) Would there be ways to leverage an LLM safely in a real-life version of the vaccine storage problem?  
-c) Do you think we could use an LLM in this scenario in such a way that the benefits would outweigh the risks?  
+    a) What risks would there be in relying on an LLM if we were dealing with a real-life vaccine storage problem?  
+    b) Would there be ways to leverage an LLM safely in a real-life version of the vaccine storage problem?  
+    c) Do you think we could use an LLM in this scenario in such a way that the benefits would outweigh the risks?  
