@@ -12,8 +12,9 @@ Temperature data: `who_audit_synthetic_data.csv`
 
 **Key points**: The dataset contains misleading information in some columns. You should identify the temperature range columns for batches that show the lowest and the highest temperature for that batch.
 
-## Your task
+## Task details
 **Develop a prompting strategy that can get the LLM to correctly identify the vaccine batches that have been stored at inappropriate temperatures.**  
+
 **Target:** There are 3 batches that have been stored inappropriately:
 
 B10046 (2025-02-14 8:00:00)  
