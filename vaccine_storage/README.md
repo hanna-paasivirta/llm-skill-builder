@@ -30,9 +30,9 @@ Using a larger LLM will make the task easier, and using a small one will make it
 
 I suggest you note down your answers for these questions, then chat with an LLM, me or a friend to review your answer and consider other possible perspectives.  
 
-1. What are some prompts that you tried that didn't help get the correct answer from the LLM? What are your working theories about why they didn't work?  
+1. What are some prompts that you tried that didn't help get the correct answer from the LLM? Can you think of any explanations for why they didn't work?  
 
-2. If you try solving the task on a chat UI (like claude.ai), you might find that the model IS able to get to the answer (try it out!). But when you use the same LLM in your code in the Jupyter Notebook (e.g. Claude Sonnet 4), it can't find the correct answer. Why could this be?  
+2. If you try solving the task on a chat UI (like claude.ai), you might find that the model IS able to get to the answer (try it out!). But when you use the same LLM in your code in the Jupyter Notebook (e.g. Claude Sonnet 4), it probably won't find the correct answer. Why could this be?  
 
 3. Can you think of prompts that help you get closer to the correct answer? (Hint: you could try identifying separate, simple tasks within the overall complex task)  
 
