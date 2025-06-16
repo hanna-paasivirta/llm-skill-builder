@@ -1,5 +1,7 @@
 # Prompt Engineering & Task Decomposition Practice
-This is a practice exercise for working with LLMs. The `data_exploration.ipynb` notebook provides a starting point for the task.
+This is a practice exercise for working with LLMs that will help you learn to split complex tasks into manageable components to achieve greater accuracy. Thinking in a factory pipeline approach is essential for designing reliable LLM pipelines and agentic systems. 
+
+The `data_exploration.ipynb` notebook provides a starting point for the task.
 
 ## Task description
 
